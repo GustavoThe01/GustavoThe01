@@ -24,13 +24,6 @@ Tenho como objetivo evoluir continuamente e entregar soluções que gerem valor 
 
 ---
 
-### 🏆 Troféus
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=GustavoThe01&theme=tokyonight&row=1&no-frame=true" />
-</div>
-
----
-
 ### 📊 Estatísticas do GitHub
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GustavoThe01&show_icons=true&theme=tokyonight&count_private=true" />
@@ -42,7 +35,7 @@ Tenho como objetivo evoluir continuamente e entregar soluções que gerem valor 
 
 ### 📈 Gráfico de Atividade
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoThe01&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GustavoThe01&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
