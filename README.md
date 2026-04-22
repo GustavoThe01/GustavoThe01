@@ -24,12 +24,21 @@ Tenho como objetivo evoluir continuamente e entregar soluções que gerem valor 
 
 ---
 
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gustavo-osterno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-osterno&layout=compact&theme=tokyonight" />
+</div>
+
+---
+
 ### 🛠️ Stack Principal
 
-- Front-end: HTML5, CSS3, JavaScript, TypeScript, React
-- Back-end: Java, C#
-- Versionamento: Git, GitHub
-- Outros: Firebase, APIs REST
+- **Front-end**: HTML5, CSS3, JavaScript, TypeScript, React
+- **Back-end**: Java, C#
+- **Versionamento**: Git, GitHub
+- **Outros**: Firebase, APIs REST
 
 ---
 
