@@ -65,8 +65,10 @@ Atualmente evoluindo em: **Arquitetura Full Stack · React & TypeScript · Integ
 ## 📊 Minhas Estatísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=GustavoThe01&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoThe01&layout=compact&langs_count=7&theme=dracula" alt="Top Linguagens" />
+
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=GustavoThe01&show_icons=true&theme=dracula)](https://github.com/GustavoThe01)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoThe01&layout=compact&langs_count=7&theme=dracula)](https://github.com/GustavoThe01)
+
 </div>
 
 ---
