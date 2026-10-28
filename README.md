@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Gustavo Thé 👋
+# Olá, eu sou o Gustavo Thé
 
 **Desenvolvedor Full Stack com foco em Front-end · Interfaces e soluções que funcionam de verdade**
 
@@ -110,6 +110,26 @@ Sou **desenvolvedor Full Stack com maior foco no ecossistema Front-end**. Atuo n
 | **Banco de dados & Segurança** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white) ![OAuth2](https://img.shields.io/badge/OAuth2-E51937?style=flat-square&logo=oauth&logoColor=white) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
 | **Integrações & IA** | ![Google Gemini](https://img.shields.io/badge/Google_GenAI-8E75B2?style=flat-square&logo=googlebard&logoColor=white) ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat-square&logo=hubspot&logoColor=white) |
+
+---
+
+## 📊 Estatísticas no GitHub
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoThe01&theme=tokyonight" alt="Contribuições por mês" width="100%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GustavoThe01&theme=tokyonight" alt="Estatísticas" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoThe01&theme=tokyonight" alt="Linguagens por repositório" height="165" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GustavoThe01&theme=tokyonight" alt="Linguagens por commit" height="165" />
+
+<img src="https://streak-stats.demolab.com/?user=GustavoThe01&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" width="70%" />
+
+### 🏆 Troféus
+
+<img src="https://github-trophies.vercel.app/?username=GustavoThe01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Troféus do GitHub" width="100%" />
+
+</div>
 
 ---
 
