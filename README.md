@@ -112,7 +112,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://monteiroealbuquerque.com.br"><img src="assets/producao/monteiro-albuquerque.webp" alt="Monteiro &amp; Albuquerque Contabilidade" height="72" /></a>
+      <a href="https://monteiroealbuquerque.com.br"><img src="assets/producao/monteiro-albuquerque.svg" alt="Monteiro &amp; Albuquerque Contabilidade" height="72" /></a>
       <h4><a href="https://monteiroealbuquerque.com.br">Monteiro &amp; Albuquerque Contabilidade</a></h4>
       <p>Portal contábil e empresarial com área do cliente, login com Google e agendamento de consultoria por vídeo.</p>
       <p><a href="https://monteiroealbuquerque.com.br">🌐 monteiroealbuquerque.com.br</a> · <sub>código privado</sub></p>
@@ -126,7 +126,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://gr-wedding.web.app"><img src="assets/producao/gr-wedding.webp" alt="G | R Wedding" height="72" /></a>
+      <a href="https://gr-wedding.web.app"><img src="assets/producao/gr-wedding.svg" alt="G | R Wedding" height="72" /></a>
       <h4><a href="https://gr-wedding.web.app">G | R Wedding</a></h4>
       <p>Portal de casamento com convite individual, painel do convidado e painel dos noivos.</p>
       <p><a href="https://gr-wedding.web.app">🌐 gr-wedding.web.app</a> · <sub>código privado</sub></p>
@@ -146,7 +146,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
       <p><a href="https://crazylifewow.web.app">🌐 crazylifewow.web.app</a> · <sub>código privado</sub></p>
     </td>
     <td width="50%" valign="top">
-      <a href="https://pizzaria-forno-de-pedra.web.app"><img src="assets/producao/forno-de-pedra.webp" alt="Pizzaria Forno de Pedra" height="72" /></a>
+      <a href="https://pizzaria-forno-de-pedra.web.app"><img src="assets/producao/forno-de-pedra.svg" alt="Pizzaria Forno de Pedra" height="72" /></a>
       <h4><a href="https://pizzaria-forno-de-pedra.web.app">Pizzaria Forno de Pedra</a></h4>
       <p>Site e cardápio digital para pizzaria, com produtos artesanais e canais de pedido.</p>
       <p><a href="https://pizzaria-forno-de-pedra.web.app">🌐 pizzaria-forno-de-pedra.web.app</a> · <sub>código privado</sub></p>
