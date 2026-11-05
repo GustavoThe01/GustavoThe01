@@ -39,7 +39,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
       </p>
-      <sub>Dia 01 de 20 · 14 testes · provedores de LLM prontos</sub>
+      <sub>Dia 02 de 20 · 16 testes · já responde com modelo local</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/GustavoThe01/bifrost-orders"><img src="https://raw.githubusercontent.com/GustavoThe01/bifrost-orders/main/docs/assets/banner.svg" alt="Bifrost" width="100%" /></a>
@@ -51,7 +51,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/EF_Core-6C3FC5?style=flat-square" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <sub>Dia 03 de 20 · 48 testes · domínio e persistência prontos</sub>
+      <sub>Dia 04 de 20 · 63 testes · domínio, persistência e CQRS prontos</sub>
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <sub>Dia 03 de 20 · 46 testes · domínio e persistência prontos</sub>
+      <sub>Dia 04 de 20 · 59 testes · domínio, persistência e API de projetos prontos</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/GustavoThe01/plutus-ledger"><img src="https://raw.githubusercontent.com/GustavoThe01/plutus-ledger/main/docs/assets/banner.svg" alt="Plutus" width="100%" /></a>
@@ -77,7 +77,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/Dapper-1F6FEB?style=flat-square" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <sub>Dia 03 de 10 · 58 testes · operações e eventos prontos</sub>
+      <sub>Dia 04 de 10 · 74 testes · domínio e casos de uso prontos</sub>
     </td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/JUnit_6-25A162?style=flat-square&logo=junit5&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <sub>Dia 03 de 10 · 49 testes · domínio e consultas prontos</sub>
+      <sub>Dia 04 de 10 · 62 testes · domínio, consultas e JDBC prontos</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/GustavoThe01/mercurium-sql"><img src="https://raw.githubusercontent.com/GustavoThe01/mercurium-sql/main/docs/assets/banner.svg" alt="Mercurium" width="100%" /></a>
@@ -100,7 +100,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
       </p>
-      <sub>Dia 03 de 10 · DER em 3FN e schema com 10 tabelas prontos</sub>
+      <sub>Dia 04 de 10 · DER, schema e dados de exemplo prontos</sub>
     </td>
   </tr>
 </table>
