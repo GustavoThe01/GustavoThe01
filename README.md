@@ -39,7 +39,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
       </p>
-      <sub>Dia 03 de 20 · 28 testes · modelo local e saída estruturada</sub>
+      <sub>Dia 04 de 20 · 40 testes · avaliação com 20 casos e 80% de acerto</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/GustavoThe01/bifrost-orders"><img src="https://raw.githubusercontent.com/GustavoThe01/bifrost-orders/main/docs/assets/banner.svg" alt="Bifrost" width="100%" /></a>
@@ -51,7 +51,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/EF_Core-6C3FC5?style=flat-square" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <sub>Dia 05 de 20 · 73 testes · versão 0.1.0, com API e CQRS</sub>
+      <sub>Dia 06 de 20 · 84 testes · leitura com Dapper e listagem paginada</sub>
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <sub>Dia 05 de 20 · 73 testes · versão 0.1.0, com API de projetos e tarefas</sub>
+      <sub>Dia 06 de 20 · 85 testes · paginação e filtros com Specifications</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/GustavoThe01/plutus-ledger"><img src="https://raw.githubusercontent.com/GustavoThe01/plutus-ledger/main/docs/assets/banner.svg" alt="Plutus" width="100%" /></a>
@@ -77,7 +77,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/Dapper-1F6FEB?style=flat-square" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <sub>Dia 05 de 10 · 85 testes · domínio, casos de uso e Dapper prontos</sub>
+      <sub>Dia 06 de 10 · 92 testes · extratos paginados e resumo mensal com LINQ</sub>
     </td>
   </tr>
   <tr>
@@ -90,7 +90,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/JUnit_6-25A162?style=flat-square&logo=junit5&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <sub>Dia 05 de 10 · 70 testes · domínio, JDBC e transações prontos</sub>
+      <sub>Dia 06 de 10 · 90 testes · Strategy, Observer, Builder e Factory</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/GustavoThe01/mercurium-sql"><img src="https://raw.githubusercontent.com/GustavoThe01/mercurium-sql/main/docs/assets/banner.svg" alt="Mercurium" width="100%" /></a>
@@ -100,7 +100,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
         <img src="https://img.shields.io/badge/SQL-336791?style=flat-square" />
       </p>
-      <sub>Dia 05 de 10 · schema, dados de exemplo e 15 consultas prontos</sub>
+      <sub>Dia 06 de 10 · 25 consultas, com CTEs e window functions</sub>
     </td>
   </tr>
 </table>
