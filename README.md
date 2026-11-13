@@ -39,7 +39,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
         <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
       </p>
-      <sub>Dia 09 de 20 · 106 testes · respostas com citação da fonte</sub>
+      <sub>Dia 10 de 20 · v0.2.0 · 126 testes · RAG com permissão por perfil</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/GustavoThe01/bifrost-orders"><img src="https://raw.githubusercontent.com/GustavoThe01/bifrost-orders/main/docs/assets/banner.svg" alt="Bifrost" width="100%" /></a>
@@ -51,7 +51,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/EF_Core-6C3FC5?style=flat-square" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <sub>Dia 11 de 20 · v0.2.0 · 126 testes · autenticação JWT</sub>
+      <sub>Dia 12 de 20 · v0.2.0 · 137 testes · autorização por dono do pedido</sub>
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ Construo estes projetos em público, um dia de cada vez, com roadmap, decisões 
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" />
         <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
       </p>
-      <sub>Dia 11 de 20 · v0.2.0 · 144 testes · usuários e senha com BCrypt</sub>
+      <sub>Dia 12 de 20 · v0.2.0 · 155 testes · JWT com refresh token</sub>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/GustavoThe01/plutus-ledger"><img src="https://raw.githubusercontent.com/GustavoThe01/plutus-ledger/main/docs/assets/banner.svg" alt="Plutus" width="100%" /></a>
